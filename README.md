@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFidWtnZjMyOTNzdWJoeHB2NWIwOGJvOXcwOG5tdncwNmFhMDRteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mrjNLbAiWxAYV3BYOQ/giphy.gif" width="250"/>
 </div>
 
-### 💫 About Me  :
+### 💫 About Me:
 👋 Hi, I'm Vikram Aditya  
 👀 I'm interested in Video Game Development  
 🌱 I'm currently learning Unreal Engine  
@@ -10,7 +10,7 @@
 📫 You can reach me at vikramadityacr@gmail.com  
 💻 Currently working towards enhancing my skills
 
-### 🌐 Socials :
+### 🌐 Socials:
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/vikram-aditya-a9a80b209/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -20,7 +20,7 @@
   </a>
 </div>
 
-### 💻 Tech Stack :
+### 💻 Tech Stack:
 <div>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
