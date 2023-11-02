@@ -33,6 +33,4 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">  
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thequietkid79)](https://git.io/streak-stats)
-          
-  
+[![GitHub Streak](https://gh-streak-stats.rahulv.dev?user=thequietkid79&theme=burnt-neon)](https://git.io/streak-stats)
