@@ -6,7 +6,7 @@
 👀 I'm interested in Video Game Development  
 🌱 I'm currently learning Unreal Engine  
 💞 I'm looking to collaborate on Game Dev Projects  
-📫 You can reach me at vikramadityacr@gmail.com  
+📫 You can reach me at thequietkid4ev@gmail.com  
 💻 Currently working towards enhancing my skills
 
 ### 🌐 Socials:
