@@ -7,7 +7,7 @@
 🌱 I'm currently learning Unreal Engine  
 💞 I'm looking to collaborate on Game Dev Projects  
 📫 You can reach me at thequietkid4ev@gmail.com  
-💻 Currently working towards enhancing my skills
+💻 Currently working on a 2D platformer
 
 ### 🌐 Socials:
 <div id="badges" align="left">
