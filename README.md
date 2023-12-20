@@ -3,7 +3,6 @@
 </div>
 
 ### 💫 About Me:
-👋 Hi, my name's Vikram
 👀 I'm interested in Video Game Development  
 🌱 I'm currently learning Unreal Engine  
 💞 I'm looking to collaborate on Game Dev Projects  
