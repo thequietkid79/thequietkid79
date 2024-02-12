@@ -3,7 +3,7 @@
 </div>
 
 ### 💫 About Me:
-👀 I'm interested in Video Game Development  
+👀 I'm interested in Video Game Design
 🌱 I'm currently learning Unreal Engine  
 💞 I'm looking to collaborate on Game Dev Projects  
 📫 You can reach me at thequietkid4ev@gmail.com  
