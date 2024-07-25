@@ -25,5 +25,3 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">  
 </div>
-
-[![GitHub Streak](https://gh-streak-stats.rahulv.dev?user=thequietkid79&theme=burnt-neon)](https://git.io/streak-stats)
