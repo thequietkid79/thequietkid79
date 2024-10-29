@@ -3,25 +3,28 @@
 </div>
 
 ### 💫 About Me:
-👀 I'm interested in Video Game Design
-🌱 I'm currently learning Unreal Engine  
-💞 I'm looking to collaborate on Game Dev Projects  
-📫 You can reach me at thequietkid4ev@gmail.com  
-💻 Currently working on a 2D platformer
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&multiline=true&width=800&height=80&lines=I+develop+2D+games.;I+am+currently+working+on+a+single-player+adventure+RPG." alt="Typing SVG" /></a>
 ### 🌐 Socials:
 <div id="badges" align="left">
   </a>
-  <a href="https://twitter.com/thequietkid4l">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/thequietkid4l">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <a href="https://discord.com/users/1091297755546255400">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://www.last.fm/user/thequietkid79">
+    <img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"/>
   </a>
 </div>
 
 ### 💻 Tech Stack:
 <div>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">  
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white">
+  
+  
 </div>
