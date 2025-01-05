@@ -7,13 +7,8 @@
 ### 🌐 Socials:
 <div id="badges" align="left">
   </a>
-  <a href="https://x.com/thequietkid4l">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   <a href="https://discord.com/users/1091297755546255400">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  <a href="https://www.last.fm/user/thequietkid79">
-    <img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"/>
-  </a>
 </div>
 
 
