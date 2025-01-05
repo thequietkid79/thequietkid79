@@ -3,10 +3,9 @@
 </div>
 
 ### 💫 About Me:
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&multiline=true&width=800&height=80&lines=I+develop+2D+games.;I+am+currently+working+on+a+single-player+adventure+RPG." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&multiline=true&width=800&height=80&lines=I+develop+2D+games.;I+am+currently+working+on+a+single-player+adventure+RPG." alt="Typing SVG" />
 ### 🌐 Socials:
 <div id="badges" align="left">
-  </a>
   <a href="https://discord.com/users/1091297755546255400">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
